@@ -1,4 +1,5 @@
 {
+  "name": "vite-vue2-windicss-starter",
   "private": true,
   "scripts": {
     "postinstall": "husky install",
